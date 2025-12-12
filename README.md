@@ -1,4 +1,4 @@
-# Custom Gemini Chatbot by Shivam
+# Custom Gemini Chatbot by Alok
 
 A custom chatbot powered by Google's Gemini AI using LangChain and Streamlit.
 
@@ -77,4 +77,4 @@ MIT License
 
 ## Author
 
-Created by Shivam
+Created by Alok
