@@ -23,7 +23,7 @@ st.set_page_config(
 )
 
 # Streamlit framework
-st.title('🤖 Custom Gemini Chatbot by Shivam')
+st.title('🤖 Custom Gemini Chatbot by Alok')
 
 
 input_text = st.text_input("How may I help you?", placeholder="Type your question here...")
